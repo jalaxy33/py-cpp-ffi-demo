@@ -2,6 +2,7 @@
 
 #include <pybind11/pybind11.h>
 #include <pybind11/embed.h>
+#include <string>
 
 #ifdef _WIN32
 #include <windows.h>
